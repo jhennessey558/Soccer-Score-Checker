@@ -1,0 +1,17 @@
+C:\Users\jhenn\source\repos\Soccer Score Checker\Soccer Score Checker\bin\Debug\net8.0\Soccer Score Checker.exe
+C:\Users\jhenn\source\repos\Soccer Score Checker\Soccer Score Checker\bin\Debug\net8.0\Soccer Score Checker.deps.json
+C:\Users\jhenn\source\repos\Soccer Score Checker\Soccer Score Checker\bin\Debug\net8.0\Soccer Score Checker.runtimeconfig.json
+C:\Users\jhenn\source\repos\Soccer Score Checker\Soccer Score Checker\bin\Debug\net8.0\Soccer Score Checker.dll
+C:\Users\jhenn\source\repos\Soccer Score Checker\Soccer Score Checker\bin\Debug\net8.0\Soccer Score Checker.pdb
+C:\Users\jhenn\source\repos\Soccer Score Checker\Soccer Score Checker\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jhenn\source\repos\Soccer Score Checker\Soccer Score Checker\obj\Debug\net8.0\Soccer Score Checker.csproj.AssemblyReference.cache
+C:\Users\jhenn\source\repos\Soccer Score Checker\Soccer Score Checker\obj\Debug\net8.0\Soccer Score Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhenn\source\repos\Soccer Score Checker\Soccer Score Checker\obj\Debug\net8.0\Soccer Score Checker.AssemblyInfoInputs.cache
+C:\Users\jhenn\source\repos\Soccer Score Checker\Soccer Score Checker\obj\Debug\net8.0\Soccer Score Checker.AssemblyInfo.cs
+C:\Users\jhenn\source\repos\Soccer Score Checker\Soccer Score Checker\obj\Debug\net8.0\Soccer Score Checker.csproj.CoreCompileInputs.cache
+C:\Users\jhenn\source\repos\Soccer Score Checker\Soccer Score Checker\obj\Debug\net8.0\Soccer S.0DABE696.Up2Date
+C:\Users\jhenn\source\repos\Soccer Score Checker\Soccer Score Checker\obj\Debug\net8.0\Soccer Score Checker.dll
+C:\Users\jhenn\source\repos\Soccer Score Checker\Soccer Score Checker\obj\Debug\net8.0\refint\Soccer Score Checker.dll
+C:\Users\jhenn\source\repos\Soccer Score Checker\Soccer Score Checker\obj\Debug\net8.0\Soccer Score Checker.pdb
+C:\Users\jhenn\source\repos\Soccer Score Checker\Soccer Score Checker\obj\Debug\net8.0\Soccer Score Checker.genruntimeconfig.cache
+C:\Users\jhenn\source\repos\Soccer Score Checker\Soccer Score Checker\obj\Debug\net8.0\ref\Soccer Score Checker.dll
